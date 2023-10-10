@@ -70,23 +70,6 @@ There are keyboard shortcuts to enable/disable SSRT, mapped to the following num
 * __Debug Mode:__ View of the different SSRT buffers for debug purposes.
 * __Light Only:__ If enabled will show only the radiance that affects the surface, if unchecked radiance will be multiplied by surface albedo.
 
-# Credits
-The following code has been developed at [CDRIN](https://www.cdrin.com/) by Olivier Therrien as a R&D project on real-time global illumination.
-
-![cdrin](Img/cdrin.png)
-
-# License
-
-The SSRT code is under MIT license (See LICENSE file).
-
-The Plaza model is made by [patrix](https://sketchfab.com/patrix), is under [CC Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) license, and comes from [here](https://skfb.ly/6IYFE).
-
-# Acknowledgements
-
-This project drew a lot of inspiration from the following work:
-
-* [Multi-Scale Global Illumination](http://wili.cc/research/quantum_break/) in Quantum Break.
-* [GTAO](https://community.activision.com/t5/Publications/Practical-Real-Time-Strategies-for-Accurate-Indirect-Occlusion/ba-p/10002180) paper from Activision.
-* [GTAO](https://github.com/MaxwellGengYF/Unity-Ground-Truth-Ambient-Occlusion) implementation for Unity from MaxwellGengYF.
-* Sonic Ether's [SEGI](http://www.sonicether.com/segi/).
-
+### Contact
+email: kakashinakamoto0822@gmail.com
+       fantasydev1225@gmail.com
